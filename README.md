@@ -1,6 +1,8 @@
 # Ajax
 
-This is the repo for [Udacity's Ajax course](). The course covers making asynchronous requests using three different methods:
+This my own work for [Udacity's Ajax course](). 
+
+The course covers making asynchronous requests using three different methods:
 
 * the XHR object
 * jQuery's `.ajax()` method
@@ -15,11 +17,8 @@ The same project is built with each of these techniques. You'll find one folder 
 
 ## Instructions
 
-There are no special instructions for this project.
+You have to use a server in order to run. In the base folder type the following command for python 3
 
-## Creators
-
-**Richard Kalehoff**
-
-* [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-* [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
+```
+python -m http.server
+```
