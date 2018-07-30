@@ -119,12 +119,12 @@ ul {
     margin: 0;
 }
 
-.article h2 a {
+.article div a {
     color: #02b3e4;
     text-decoration: none;
 }
 
-.article h2 a:hover {
+.article div a:hover {
     text-decoration: underline;
 }
 
